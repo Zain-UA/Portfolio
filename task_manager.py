@@ -219,7 +219,6 @@ recently added task(s) to be included!""")
         print()
         print("--------------------------")
 
-
 def view_mine():
     '''Reads the task from task.txt file and prints to the console in the 
        format of Output 2 presented in the task pdf (i.e. includes spacing
