@@ -1,3 +1,3 @@
 # Portfolio
 
-This was a rather lengthy task I completed during a coding bootcamp.
+This was a task I completed during my coding bootcamp. For detailed task requirements, please 
